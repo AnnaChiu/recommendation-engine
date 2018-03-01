@@ -1,0 +1,19 @@
+{
+  "name": "recommendation-engine",
+  "version": "1.0.0",
+  "description": "recommendation engine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaChiu/recommendation-engine.git"
+  },
+  "author": "Anna Chiu, Leslie Manrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaChiu/recommendation-engine/issues"
+  },
+  "homepage": "https://github.com/AnnaChiu/recommendation-engine#readme"
+}
