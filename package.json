@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AnnaChiu/recommendation-engine/issues"
   },
-  "homepage": "https://github.com/AnnaChiu/recommendation-engine#readme"
+  "homepage": "https://github.com/AnnaChiu/recommendation-engine#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
